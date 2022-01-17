@@ -13,7 +13,7 @@
     "Node",
     "Route"
   ],
-  "author": "Shiva Kumar",
+  "author": "kalyan pologi",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.0.1",
